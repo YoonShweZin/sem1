@@ -1,3 +1,4 @@
 Software Engineering Method
 
-Read main.yml
+
+main.yml run
